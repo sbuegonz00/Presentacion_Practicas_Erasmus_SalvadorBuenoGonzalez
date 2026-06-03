@@ -5,8 +5,8 @@
 * **Semanas 1 y 2 (16 feb - 1 mar):** Adaptación al entorno de la academia en Gjirokaster y comienzo de la docencia en fundamentos de lógica computacional utilizando **Scratch**.
 * **Semanas 3 y 4 (2 mar - 15 mar):** Introducción al desarrollo web frontend. Preparación e impartición de clases sobre estructura y estilos usando **HTML y CSS**.
 * **Semanas 5, 6 y 7 (16 mar - 5 abr):** Transición a la programación dinámica en la web mediante **JavaScript**, planteando y supervisando ejercicios prácticos continuos para asentar la lógica en los alumnos.
-* **Semanas 8, 9 y 10 (6 abr - 26 abr):** Introducción a la programación moderna orientada a objetos y desarrollo de aplicaciones con **Kotlin básico**, elaborando y exponiendo presentaciones en inglés como material de apoyo didáctico.
-* **Semanas 11 y 12 (27 abr - 13 may):** Talleres introductorios sobre conceptos de vanguardia tecnológica, abarcando nociones de **Inteligencia Artificial (IA)** y buenas prácticas en **Ciberseguridad** para jóvenes. Inicio y desarrollo del proyecto de creación de la página web de la universidad utilizando el gestor de contenidos **WordPress**.
+* **Semanas 8, 9 y 10 (6 abr - 26 abr):** Desplazamiento a la universidad para el diseño y desarrollo de su portal web utilizando **WordPress**. Adicionalmente, impartición de una demostración de 2 días sobre **Kotlin** en inglés, exponiendo proyectos propios como caso de éxito.
+* **Semanas 11 y 12 (27 abr - 13 may):** Impartición de talleres de **Inteligencia Artificial (IA)** mediante ejercicios interactivos muy básicos. Tareas de apoyo técnico y asistencia al alumnado en ejercicios durante las sesiones de **Ciberseguridad** impartidas por un compañero del ciclo de ASIR.
 
 ## 🛠️ Herramientas Utilizadas
 * **Lenguajes y Tecnologías Web:** HTML, CSS, JavaScript.
